@@ -1,0 +1,3 @@
+name = Denis
+size = 25
+email = denis.miladinov.highschool@svetlina.net
