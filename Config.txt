@@ -1,0 +1,8 @@
+
+
+
+
+
+name = Jordankata
+szie = 188
+email - iordan.dimitrov.higshcool@svetlina.net
