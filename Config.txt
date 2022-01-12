@@ -1,8 +1,8 @@
-
-
-
-
-
 name = Jordankata
 szie = 188
 email - iordan.dimitrov.higshcool@svetlina.net
+
+name = Denis
+size = 25
+email = denis.miladinov.highschool@svetlina.net
+
